@@ -22,7 +22,7 @@ Actively involved in humanitarian efforts since the beginning of the war in Ukra
 - **Project Tools:** Git, GitHub, Jira, expert in automation tools like Integromat and Zapier
 
 ## Employment History
-### Nov-21 – Present, Training and Development Specialist, Epicentr K, Ukraine
+### Nov-21 – Apr-23, Training and Development Specialist, Epicentr K, Ukraine
 - Participation in the Learning Management System implementation project
 - Conducted both online and offline training sessions and created video courses
 - Developed and managed a charity project using chatbot 'Epicenter-help'
