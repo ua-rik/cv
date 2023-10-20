@@ -83,3 +83,6 @@ Actively involved in humanitarian efforts since the beginning of the war in Ukra
 - **2016:** Jordan Belfort Training ‘Straight Line Persuasion’, Kyiv, Ukraine
 - **2014:** Hennadii Tkachenko Academy of Trainers ‘Three master classes for trainers’, Kyiv, Ukraine
 - **2011:** Training ‘Practicum of coaching skills’, (Lutsk, Ukraine)
+
+## Download CV:
+- [2023-10 CV Yaroslav Davydchuk.pdf](https://github.com/ua-rik/cv/blob/main/2023-10%20CV%20Yaroslav%20Davydchuk.pdf)
