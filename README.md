@@ -7,21 +7,42 @@
 - **LinkedIn:** [https://www.linkedin.com/in/yaroslavdavydchuk](https://www.linkedin.com/in/yaroslavdavydchuk)
 
 ## Personal Profile
-Dynamic and dedicated Project Manager and Training Specialist with over 10 years of experience in sales development and staff training. Adept in stakeholder management, skilled in the latest IT tools, including data analytics, and chatbots. Completed the Google Data Analytics course with proficiency in BigQuery, R, and RStudio. Seeking opportunities to further develop and apply my skillset.
+After more than 15 years of successful experience in project management and staff development, where I actively implemented automation, data processing, and analysis, I have decided to focus on a career in Data Engineering. I have recently completed an intensive Data Engineering bootcamp at Northcoders and have successfully finished the Google Data Analytics course, where I gained profound knowledge in data processing and organization,
+analysis, and visualization. My understanding of technical processes, combined with experience in working with people and project management, are my key strengths, which I am eager to apply in a career in Data Engineering.
 
-## Volunteering
-Actively involved in humanitarian efforts since the beginning of the war in Ukraine, volunteering with Hilfswerk International and Ukrzaliznytsia to assist displaced persons.
-
-## Key Skills
-- **Stakeholder Management:** Skilled in risk management, budgeting, and scheduling
-- **Leadership & Negotiation:** Proven ability to lead teams and negotiate contracts
-- **Training Skills:** Expert in presentation design, audience engagement, online/offline presentations, and video course creation
+## Technical Skills
+- **Programming/Code:** JavaScript, Python, R/RStudio, 
+- **Cloud:** AWS, GCP
+- **DevOps:** Terraform, CI/CD (GitHub Actions)
 - **Industry Tools:** Advanced knowledge in CRM/ERP, LMS, CMS
-- **Data Analytics:** Expertise in SQL, BigQuery, R/RStudio, Tableau, PowerBI
-- **Technical Proficiency:** Advanced in chatbot development, including AI solutions like ChatGPT. Node.js/JavaScript development, Google Apps Script
+- **Data:** SQL, Postgres, database modelling, normalization, warehouse design
+- **Data Visualization:** Tableau, Grafana, D3.js, Charts.js
 - **Project Tools:** Git, GitHub, Jira, expert in automation tools like Integromat and Zapier
 
 ## Employment History
+### Aug-24 – Present, Chatbot Developer & Automation Engineer (contracted as Analyst), Aludo (contracted as "Analyst with experience in Customer Support & Chatbot Implementation"), Remote
+- Designed and implemented multiple customer support chatbots using Botpress, combining UI flows with JavaScript logic to automate customer assistance.
+- Developed a Node.js ETL application that collects and parses structured data from external services (e.g. Confluence, SharePoint), transforming it into knowledge base entries for Botpress-powered bots.
+- Monitored chatbot usage and effectiveness using Grafana dashboards and ClickHouse queries, identifying low-performing areas and implementing improvements.
+- Collaborated with Customer Support and Product teams to continuously update bot logic based on real-world interactions and feedback.
+- Created internal documentation and provided onboarding support to team members on chatbot maintenance and best practices.
+- Applied knowledge of SQL, JavaScript, and AI tools (e.g. Retrieval-Augmented Generation) to support chatbot optimization and scalability.
+
+### Nov-23 – Mar-23, Trainee Data Engineer, Northcoders
+Mastered JavaScript, Node.js, and Python, focusing on cloud deployment, APIs, and databases. Gained expertise in test-driven development. Developed back-end solutions using Node.js, emphasizing asynchronous programming, API integration, and SQL database management. Achieved proficiency in Python for data analysis. Acquired hands-on cloud deployment experience with AWS, employing DevOps practices for software-to-live deployment transitions. Utilized Python on EC2 and Lambda for data warehouse operations.
+
+### Nov-24 – Present, Independent Contractor/Freelance Developer
+Specialising in Digital Solutions and Automation
+- Designed and implemented over 50 versions of the "Realtor Chatbot," enhancing client engagement and
+streamlining property inquiries for various agencies.
+- Developed a web application for employee evaluations
+- Created interactive courses delivered through messaging platforms
+- Developed a comprehensive system for collecting and analysing employee KPIs, aiding businesses in
+performance management and optimization.
+- Engineered a series of chatbots for training, onboarding, sales simulations, psychological testing, and
+entertainment
+- Designed and developed custom websites and landing pages Air Quality Analysis Project
+
 ### Nov-21 – Apr-23, Training and Development Specialist, Epicentr K, Ukraine
 - Participation in the Learning Management System implementation project
 - Conducted both online and offline training sessions and created video courses
@@ -72,6 +93,8 @@ Actively involved in humanitarian efforts since the beginning of the war in Ukra
 ### Apr-05 – Jun-08, Lecturer, Open International University of Human Development (Education), Ukraine
 - Taught courses in Management, Marketing, Finance, and related subjects
 
+## Volunteering
+Actively involved in humanitarian efforts since the beginning of the war in Ukraine, volunteering with Hilfswerk International and Ukrzaliznytsia to assist displaced persons.
 
 ## Highest Education
 - **2004-2005:** Master’s degree in Public Service, The National University of Ostroh Academy, Ukraine
