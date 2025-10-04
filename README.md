@@ -105,4 +105,4 @@ entertainment
 - **2023:** Northcoders Data Engineering bootcamp
 
 ## Download CV:
-- [2023-10 CV Yaroslav Davydchuk.pdf](https://github.com/ua-rik/cv/blob/main/2023-10%20CV%20Yaroslav%20Davydchuk.pdf)
+- [Yaroslav-Davydchuk-CV-Software-Developer-2025.pdf](https://github.com/ua-rik/cv/blob/main/Yaroslav-Davydchuk-CV-Software-Developer-2025.pdf)
