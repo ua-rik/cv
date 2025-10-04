@@ -1,5 +1,5 @@
 # Yaroslav Davydchuk
-## Project Manager and Training and Development Specialist
+## Node.js / JavaScript Developer (Backend & Integrations)
 
 - **Phone:** +44 73 427 29844
 - **Email:** [d.yarik@gmail.com](mailto:d.yarik@gmail.com)
@@ -7,52 +7,51 @@
 - **LinkedIn:** [https://www.linkedin.com/in/yaroslavdavydchuk](https://www.linkedin.com/in/yaroslavdavydchuk)
 
 ## Personal Profile
-After more than 15 years of successful experience in project management and staff development, where I actively implemented automation, data processing, and analysis, I have decided to focus on a career in Data Engineering. I have recently completed an intensive Data Engineering bootcamp at Northcoders and have successfully finished the Google Data Analytics course, where I gained profound knowledge in data processing and organization,
-analysis, and visualization. My understanding of technical processes, combined with experience in working with people and project management, are my key strengths, which I am eager to apply in a career in Data Engineering.
+Software Engineer focused on backend systems and integrations. Over the past year I have delivered several JavaScript/Node.js projects—building backend services, integrations and APIs—and implemented solutions based on AI and RAG. I focus on architecture first: design the system, then pick the tools.
+My engineering approach is reinforced by 15+ years in project management and people development, where I implemented automation, streamlined processes and built data analytics tools. This combination helps me handle the technical detail and work effectively with people.
 
 ## Technical Skills
-- **Programming/Code:** JavaScript, Python, R/RStudio, 
-- **Cloud:** AWS, GCP
-- **DevOps:** Terraform, CI/CD (GitHub Actions)
-- **Industry Tools:** Advanced knowledge in CRM/ERP, LMS, CMS
-- **Data:** SQL, Postgres, database modelling, normalization, warehouse design
-- **Data Visualization:** Tableau, Grafana, D3.js, Charts.js
-- **Project Tools:** Git, GitHub, Jira, expert in automation tools like Integromat and Zapier
+- **Programming/Code:** JavaScript, Node.js(ESM)
+- **AI/Chatbots:** Botpress Cloud, RAG, grammY (Telegram)
+- **Cloud:** Azure Functions, Azure Container Apps/Jobs, AWS/GCP
+- **DevOps:** Docker, Terraform, CI/CD (GitHub Actions)
+- **Data:** SQL (Postgres, ClickHouse, MySQL), database modelling, normalization, warehouse design, ETL (Node.js/Python)
+- **Data Visualization:** Grafana, Tableau, Looker Studio, D3.js, Chart.js
 
 ## Employment History
-### Aug-24 – Present, Chatbot Developer & Automation Engineer (contracted as Analyst), Aludo (contracted as "Analyst with experience in Customer Support & Chatbot Implementation"), Remote
-- Designed and implemented multiple customer support chatbots using Botpress, combining UI flows with JavaScript logic to automate customer assistance.
+### Aug 2024 – Present, Chatbot Developer & Automation Engineer (Contract via Upwork; official title: "Analyst with experience in Customer Support & Chatbot Implementation"), Alludo (formerly Corel)
+**Stack:** Node.js (ESM), Azure Functions/Container Apps, Docker, ClickHouse, Snowflake, Grafana, Botpress, REST.
+- Designed and shipped Botpress customer-support chatbots—combining UI flows with JavaScript logic—and leveraged SQL and AI (incl. RAG) to optimize performance and scalability.
 - Developed a Node.js ETL application that collects and parses structured data from external services (e.g. Confluence, SharePoint), transforming it into knowledge base entries for Botpress-powered bots.
 - Monitored chatbot usage and effectiveness using Grafana dashboards and ClickHouse queries, identifying low-performing areas and implementing improvements.
 - Collaborated with Customer Support and Product teams to continuously update bot logic based on real-world interactions and feedback.
-- Created internal documentation and provided onboarding support to team members on chatbot maintenance and best practices.
-- Applied knowledge of SQL, JavaScript, and AI tools (e.g. Retrieval-Augmented Generation) to support chatbot optimization and scalability.
 
-### Nov-23 – Mar-23, Trainee Data Engineer, Northcoders
-Mastered JavaScript, Node.js, and Python, focusing on cloud deployment, APIs, and databases. Gained expertise in test-driven development. Developed back-end solutions using Node.js, emphasizing asynchronous programming, API integration, and SQL database management. Achieved proficiency in Python for data analysis. Acquired hands-on cloud deployment experience with AWS, employing DevOps practices for software-to-live deployment transitions. Utilized Python on EC2 and Lambda for data warehouse operations.
+### Nov 2023 – Mar 2024, Trainee Data Engineer, Northcoders
+**Stack:** JavaScript, Node.js/Express.js, Python/Pandas, AWS, TDD (Jest, Pytest), Postgresql, Terraform, Github Actions, 
+- ETL with Python/Pandas, SQL modelling (star schema), API integrations, TDD.
+- Deployed to cloud (AWS EC2, Lambda), CI/CD with Terraform and GitHub Actions, baseline monitoring.
 
-### Nov-24 – Present, Independent Contractor/Freelance Developer
+### Nov 2018 – Present, Independent Contractor/Freelance Developer (project-based)
 Specialising in Digital Solutions and Automation
-- Designed and implemented over 50 versions of the "Realtor Chatbot," enhancing client engagement and
-streamlining property inquiries for various agencies.
-- Developed a web application for employee evaluations
-- Created interactive courses delivered through messaging platforms
+- Designed and implemented Lead-gen chatbots for real estate.
+- Internal tool for staff evaluation (full-stack)
+- Anti-bullying chatbot (Node.js + grammY + Express)
+- Created interactive courses template delivered through messaging platforms
 - Developed a comprehensive system for collecting and analysing employee KPIs, aiding businesses in
 performance management and optimization.
 - Engineered a series of chatbots for training, onboarding, sales simulations, psychological testing, and
 entertainment
-- Designed and developed custom websites and landing pages Air Quality Analysis Project
 
-### Nov-21 – Apr-23, Training and Development Specialist, Epicentr K, Ukraine
+### Nov 2021 – Apr 2023, Training and Development Specialist, Epicentr K, Ukraine
 - Participation in the Learning Management System implementation project
 - Conducted both online and offline training sessions and created video courses
 - Developed and managed a charity project using chatbot 'Epicenter-help'
 
-### Mar-21 – Oct-21, Project Manager, Integrator (IT service), Ukraine
+### Mar 2021 – Oct 2021, Project Manager, Integrator (IT service), Ukraine
 - Managed ERP/CRM integration projects for customers
 - Coordinated the work of the team of integrators
 
-### Oct-20 – Jan-21, Project Manager, Training & Development Specialist, Union Group (Retail), Ukraine
+### Oct 2020 – Jan 2021, Project Manager, Training & Development Specialist, Union Group (Retail), Ukraine
 - Implemented distance learning projects
 - Developed teaching materials and courses
 #### Major Accomplishments:
@@ -94,7 +93,8 @@ entertainment
 - Taught courses in Management, Marketing, Finance, and related subjects
 
 ## Volunteering
-Actively involved in humanitarian efforts since the beginning of the war in Ukraine, volunteering with Hilfswerk International and Ukrzaliznytsia to assist displaced persons.
+- Hilfswerk International — coordination and communications supporting displaced families.
+- Ukrzaliznytsia (Ukrainian Railways) — assistance for evacuation initiatives.
 
 ## Highest Education
 - **2004-2005:** Master’s degree in Public Service, The National University of Ostroh Academy, Ukraine
@@ -102,10 +102,7 @@ Actively involved in humanitarian efforts since the beginning of the war in Ukra
 
 ## Professional Qualifications
 - **2023:** Google Data Analytics Course
-- **2021-2022:** Corporate Trainer Development Program with Mentorship, Epicentr K, Ukraine
-- **2016:** Jordan Belfort Training ‘Straight Line Persuasion’, Kyiv, Ukraine
-- **2014:** Hennadii Tkachenko Academy of Trainers ‘Three master classes for trainers’, Kyiv, Ukraine
-- **2011:** Training ‘Practicum of coaching skills’, (Lutsk, Ukraine)
+- **2023:** Northcoders Data Engineering bootcamp
 
 ## Download CV:
 - [2023-10 CV Yaroslav Davydchuk.pdf](https://github.com/ua-rik/cv/blob/main/2023-10%20CV%20Yaroslav%20Davydchuk.pdf)
