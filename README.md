@@ -93,8 +93,8 @@ entertainment
 - Taught courses in Management, Marketing, Finance, and related subjects
 
 ## Volunteering
-- Hilfswerk International — coordination and communications supporting displaced families.
-- Ukrzaliznytsia (Ukrainian Railways) — assistance for evacuation initiatives.
+- 2022 - Hilfswerk International, Ukrzaliznytsia (Ukrainian Railways) — station-based support for displaced families; shifts, tea points, first-need supplies, referrals.
+- 2023–Present - Humanitarian support and spare-parts distribution.
 
 ## Highest Education
 - **2004-2005:** Master’s degree in Public Service, The National University of Ostroh Academy, Ukraine
